@@ -222,21 +222,6 @@ archivePrefix = {arXiv},
 }
 ```
 
-Please also cite the archived version of this repository (Zenodo release):
-
-```bibtex
-@misc{<zenodo-key>,
-  author    = {Zhang, Lifu and Ge, Hongwei and ...},
-  title     = {{The data for The Common Envelope Evolution Outcome. III. The Improvement of
-               Stellar Binding Energy with the Envelope Residual}},
-  year      = 2026,
-  publisher = {Zenodo},
-  version   = {1.0.0},
-  doi       = {10.5281/zenodo.XXXXXXX},
-  url       = {https://doi.org/10.5281/zenodo.XXXXXXX}
-}
-```
-
 ---
 
 ## License
